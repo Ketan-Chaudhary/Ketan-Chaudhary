@@ -3,14 +3,6 @@
 <h3 align="center">An emerging Android Developer with some hands-on experience in web development
 </h3>
 <!-- <img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
-## Mode Toggle
-
-Click the toggle below to switch between light and dark mode:
-
-<label class="switch">
-  <input type="checkbox" id="modeToggle" onclick="toggleMode()">
-  <span class="slider round"></span>
-</label>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ketan-chaudhary" /> </p>
 
