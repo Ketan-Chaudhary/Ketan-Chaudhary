@@ -5,8 +5,8 @@
     </h1>
 </div>
 
-<h3 align="center">An emerging Android Developer with some hands-on experience in web development
-</h3>
+<!-- <h3 align="center">An emerging Android Developer with some hands-on experience in web development
+</h3> -->
 
 
 
