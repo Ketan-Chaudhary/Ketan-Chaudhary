@@ -20,9 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketan-Chaudhary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="270" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif"  />
+### 
+ <!-- <img align="right" height="270" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif"  /> -->
+<img align="right" height="270" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
 
 ###
 
