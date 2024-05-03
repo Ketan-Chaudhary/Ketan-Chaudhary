@@ -68,7 +68,7 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/Ketan-Chaudhary/count.svg?"  />
+<img align="left" src="https://profile-counter.glitch.me/Ketan-Chaudhary/count.svg?"  /><br><br>
 
 ###
 <br clear="both">
@@ -78,8 +78,8 @@
 📫 How to reach me **ketanchaudharypoonia@gmail.com**
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary" alt="ketan-chaudhary" /></a> </p>
-
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary" alt="ketan-chaudhary" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers" alt="ketan-chaudhary" /></a> </p>
 
 
 
