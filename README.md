@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif)
 
 <div align="center">
     <h1>
@@ -12,21 +13,25 @@
 
 ###
 
-<br clear="both">
+<h1>GitHub Stats:</h1> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Chaudhary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ketan-Chaudhary&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketan-Chaudhary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Ketan-Chaudhary&show_icons=true&theme=dark&locale=en" alt="Ketan-Chaudhary" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketan-Chaudhary&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ketan-Chaudhary" /></td>
+    <td> <img src="https://streak-stats.demolab.com?user=Ketan-Chaudhary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  /></td>
+  </tr>
+</table>
+
 
 ### 
+<br>
+<br>
  <!-- <img align="right" height="270" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif"  /> -->
-<img align="right" height="250" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
+ <!-- <img align="right"  style="padding:50px" height="250" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  /> -->
 
 ###
-
-<div align="left">
+<div>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
