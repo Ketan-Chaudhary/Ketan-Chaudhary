@@ -13,7 +13,7 @@
 
 ###
 
-<h1>GitHub Stats:</h1> 
+<h2>GitHub Stats:</h2> 
 
 <table>
   <tr>
@@ -25,6 +25,9 @@
 
 
 ###
+
+<section>
+    
 
 <br clear="both">
 
@@ -49,10 +52,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
+</section>
+
+
 
 ###
-
-
 <div align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFvRCzmbRlMtbNBfWZRxtWhGrGRvcJVrPgMZmTMkkCSrfrJNSsrRvbNnbQdGSnZFpbFg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
