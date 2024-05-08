@@ -1,5 +1,4 @@
 ![MasterHead](GitHeade.gif)
-
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=ef873e&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ketan+Chaudhary;This+is.my+Github..;" alt="Typing SVG"/>
