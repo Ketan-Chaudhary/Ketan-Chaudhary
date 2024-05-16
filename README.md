@@ -72,7 +72,7 @@
 ###
 <br clear="both">
 <p align="left">                    
- 💬 Ask me about <b>Java, React Native</b>
+ 💬 Ask me about <b>Java, React </b>
 
 📫 How to reach me **ketanchaudharypoonia@gmail.com**
 </p>
