@@ -78,7 +78,7 @@
 </p>
 
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary" alt="ketan-chaudhary" /></a> </p>-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest" alt="ketan-chaudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="ketan-chaudhary" /></a> </p>
 
 
 
