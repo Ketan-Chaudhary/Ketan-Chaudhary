@@ -1,17 +1,11 @@
 ![MasterHead](GitHeade.gif)
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=ef873e&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ketan+Chaudhary;This+is.my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=ef873e&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ketan+Chaudhary;Welcome+to.my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
-<!-- <h3 align="center">An emerging Android Developer with some hands-on experience in web development
-</h3> -->
-
-
-
 ###
-
 <h2>GitHub Stats:</h2> 
 
 <table>
@@ -25,8 +19,6 @@
 
 ###
 <h2>My Skills:</h2>
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,express,mongodb,jquery,js,java,cpp,py,bootstrap,css,git,github,vercel,vite,npm,yarn,postman,codepen,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light)](https://skillicons.dev)
 <!-- 
@@ -67,18 +59,11 @@
   </a>
 </div>
 -->
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/Ketan-Chaudhary/count.svg?"  /><br><br>
-
-###
-📫 How to reach me **ketanchaudharypoonia@gmail.com**
-</p>
-
- <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary" alt="ketan-chaudhary" /></a> </p>-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="ketan-chaudhary" /></a> </p>
 
-
+###
+<img align="left" src="https://profile-counter.glitch.me/Ketan-Chaudhary/count.svg?"  /><br><br>
+###
+📫 How to reach me **ketanchaudharypoonia@gmail.com**
 
 
