@@ -24,12 +24,14 @@
 
 
 ###
-<h2>Tech Skills:</h2>
+<h2>My Skills:</h2>
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,express,mongodb,jquery,js,java,cpp,py,bootstrap,css,git,github,vercel,vite,npm,yarn,postman,codepen,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light)](https://skillicons.dev)
+<!-- 
 <section>
-    
-
 <br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -52,7 +54,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 </section>
-
+-->
 
 
 ###
