@@ -56,7 +56,7 @@
 </section>
 -->
 
-
+<!-- 
 ###
 <div align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFvRCzmbRlMtbNBfWZRxtWhGrGRvcJVrPgMZmTMkkCSrfrJNSsrRvbNnbQdGSnZFpbFg" target="_blank">
@@ -66,16 +66,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+-->
 
 ###
 
 <img align="left" src="https://profile-counter.glitch.me/Ketan-Chaudhary/count.svg?"  /><br><br>
 
 ###
-<br clear="both">
-<p align="left">                    
- 💬 Ask me about <b>Java, React </b>
-
 📫 How to reach me **ketanchaudharypoonia@gmail.com**
 </p>
 
