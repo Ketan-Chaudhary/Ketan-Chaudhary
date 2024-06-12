@@ -24,7 +24,7 @@
 
 
 ###
-
+<h2>Tech Skills:</h2>
 <section>
     
 
