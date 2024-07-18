@@ -19,7 +19,7 @@
 
 
 ###
-<h2>My Skills:</h2>
+<h2>Tech Stack:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,express,mongodb,jquery,js,java,cpp,py,bootstrap,css,git,github,vercel,vite,npm,yarn,postman,codepen,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light)](https://skillicons.dev)
 <!-- 
