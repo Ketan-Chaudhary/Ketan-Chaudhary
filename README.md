@@ -13,7 +13,7 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Ketan-Chaudhary&show_icons=false&theme=dark&locale=en" alt="Ketan-Chaudhary" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketan-Chaudhary&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ketan-Chaudhary" /></td>
-    <td> <img src="https://streak-stats.demolab.com?user=Ketan-Chaudhary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  /></td>
+<!--     <td> <img src="https://streak-stats.demolab.com?user=Ketan-Chaudhary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  /></td> -->
   </tr>
 </table>
 
