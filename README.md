@@ -17,40 +17,33 @@
   </tr>
 </table>
 
+<table>
+    <tr>
+        <td>            
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="ketan-chaudhary" /></a> </p>
+        </td>
+    </tr>
+    
+</table>
+
 
 ###
 <h2>Tech Stack:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,mongodb,jquery,js,java,go,cpp,py,aws,bootstrap,spring,css,git,github,vercel,vite,npm,yarn,postman,githubactions,codepen,nginx,npm,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light&perline=19)](https://skillicons.dev)
-<!-- 
-<section>
-<br clear="both">
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-</div>
-</section>
+
+
+
+
+<!--
+###
+<img align="left" src="https://profile-counter.glitch.me/Ketan-Chaudhary/count.svg?"  /><br><br>
+###
 -->
+<!--📫 How to reach me **ketanchaudharypoonia@gmail.com** -->
+
 
 <!-- 
-###
 <div align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFvRCzmbRlMtbNBfWZRxtWhGrGRvcJVrPgMZmTMkkCSrfrJNSsrRvbNnbQdGSnZFpbFg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -60,11 +53,3 @@
   </a>
 </div>
 -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="ketan-chaudhary" /></a> </p>
-
-###
-<img align="left" src="https://profile-counter.glitch.me/Ketan-Chaudhary/count.svg?"  /><br><br>
-###
-📫 How to reach me **ketanchaudharypoonia@gmail.com**
-
-
