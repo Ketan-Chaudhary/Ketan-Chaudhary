@@ -30,7 +30,8 @@
 ###
 <h2>Tech Stack:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,mongodb,jquery,js,java,go,cpp,py,aws,bootstrap,spring,css,git,github,vercel,vite,npm,yarn,postman,githubactions,codepen,nginx,npm,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,mongodb,jquery,js,java,go,cpp,py,aws,docker,kubernetes,grafana,ansible,jenkins,bootstrap,spring,css,git,github,vercel,vite,npm,yarn,postman,githubactions,codepen,nginx,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light&perline=19)](https://skillicons.dev)
+
 
 
 
